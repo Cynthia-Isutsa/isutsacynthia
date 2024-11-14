@@ -1,9 +1,9 @@
 import React from 'react'
 
 const MagicButton = ({
-  title, handleClick, position, icon, otherClasses
+  title, position, icon, otherClasses
 }: {
-  title: string; icon: React.ReactNode, handleClick?: () => void, position: string, otherClasses?: string
+  title: string; icon: React.ReactNode, position: string, otherClasses?: string
 }) => {
   return (
     <button className="relative inline-flex h-12 overflow-hidden rounded-lg w-full p-[1px] focus:outline-none md:w-60 md:mt-10">

@@ -3,7 +3,7 @@ import { Spotlight } from "./ui/Spotlight";
 import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { TbFileCv } from "react-icons/tb";
-import { FaLocationArrow, FaWhatsapp } from "react-icons/fa";
+import { FaLocationArrow } from "react-icons/fa";
 
 const Hero = () => {
     const words = `Engineering Innovative Solutions with Precision`;
@@ -44,7 +44,7 @@ const Hero = () => {
             </a>
             <a href="mailto:isutsacynthia@gmail.com">
           <MagicButton 
-          title="Lets get in touch"
+          title="Let's get in touch"
           icon={<FaLocationArrow />}
           position='right'
           />
