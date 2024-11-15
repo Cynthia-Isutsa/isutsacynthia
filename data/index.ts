@@ -22,7 +22,7 @@ export const projects = [
     img: "/p2.svg",
     iconLists: ["/languages/nextjs.png", "/languages/tailwindcss.svg", "/languages/typescript.svg"],
     
-    link: "https://github.com/adrianhajdin/zoom-clone",
+    link: "https://github.com/Cynthia-Isutsa/AI-Saaa",
   },
   {
     id: 3,
@@ -34,11 +34,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Animated Apple Iphone 3D Website",
-    des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+    title: "Hosol ",
+    des: "Hospital Management System in nextjs and firebase",
     img: "/p4.svg",
     iconLists: ["/languages/nextjs.png", "/languages/tailwindcss.svg", "/languages/typescript.svg", "/languages/firebase.svg"],
-    link: "https://github.com/adrianhajdin/iphone",
+    link: "https://github.com/Cynthia-Isutsa/hosol",
   },
   
 ];
