@@ -35,7 +35,7 @@ const Hero = () => {
                 Hi, I&apos;m Cynthia Isutsa, a software engineer based in Nairobi.
             </p>
             <div className="flex justify-center mt-8 items-center md:gap-3 gap-6">
-            <a href="https://docs.google.com/document/d/1501PQKQOmZK1hGYHtLMPGEBx42zV7g1a/edit?usp=drive_link&ouid=111836561503954018060&rtpof=true&sd=true" target="_blank">
+            <a href="https://docs.google.com/document/d/1NeTi-b0kdlGAyjbE_JUuEEzNVzkdB2FedjiNYi-u7Xw/edit?tab=t.0" target="_blank">
             <MagicButton 
              title="Download Resume"
              icon= {<TbFileCv className="text-2xl text-white pr-2" />}

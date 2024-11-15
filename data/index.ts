@@ -209,7 +209,7 @@ export const workExperience = [
   {
     id: 1,
     title: "Frontend Engineer",
-    employer: `Pathways Technologies - Nov 2023 - Present`,
+    employer: `Pathways Technologies - Oct 2023 - Oct 2024`,
     //period: 2023 Nov - Present,
     desc: "Part of a team that developed  the front-end of a web-based insurance broker (Minet) platform using React.js and ant-design",
     className: "md:col-span-2",
@@ -218,15 +218,15 @@ export const workExperience = [
   {
     id: 3,
     title: "Freelance NextJs/Firebase Project",
-    employer: " Aug 2024 - Present",
-    desc: "Leading the development of a web app for a client, from initial concept to deployment on vercel. The app was built using Next.js and Firebase, and Clerk for authentication.",
+    employer: " June 2024 - Oct 2024",
+    desc: "Leading the development of a (STI Policy HelpDesk) web app for a client, from initial concept to deployment on vercel. The app was built using Next.js and Firebase, and Clerk for authentication.",
     className: "md:col-span-2", 
     thumbnail: "/exp3.svg",
   },
   {
     id: 2,
     title: "Frontend Engineer",
-    employer: "Afya Health - Aug 2024 - Oct 2024",
+    employer: "Afya Health - May 2023 - Sept 2023",
     desc: "Part of a team that developed of a web-based hospital platform using React.js and ant-design",
     className: "md:col-span-2", 
     thumbnail: "/exp2.svg",
@@ -234,7 +234,7 @@ export const workExperience = [
  
   {
     id: 4,
-    title: "Freelance Technical Writer/Front End Developer,",
+    title: "Freelance Technical Writer/Front End Developer",
     employer: " Upwork - July  2022- Sept  2023",
     desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
